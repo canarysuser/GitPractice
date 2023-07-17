@@ -5,6 +5,6 @@ b=len(a)
 for x in range (0,b):
     if a[x]=='':
         cnt+=1
-    #print(cnt)
+    #print(cnt)  will print the  cnt value
 
 print("count of words is:" ,b-cnt)
