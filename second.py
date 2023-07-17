@@ -1,5 +1,5 @@
 dic={}
-ent=input("enter:")
+ent=input("enter a Word:")
 for i in ent:
     if i in dic:
         dic[i]+=1
