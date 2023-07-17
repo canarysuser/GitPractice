@@ -1,2 +1,2 @@
 n=input("enter word:")
-print("number of word:",len(n.split(" ")))
+print("number of words:",len(n.split(" ")))
