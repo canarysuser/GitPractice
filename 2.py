@@ -6,5 +6,6 @@ for x in word:
     else:
         mp[x]+=1
 mp.pop(" ")        
-print(mp)            
+
+print(mp)           
  
