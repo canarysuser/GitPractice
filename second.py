@@ -1,5 +1,5 @@
 dic={}
-ent=input("enter:")#Hello
+ent=input("enter:")
 for i in ent:
     if i in dic:
         dic[i]+=1
