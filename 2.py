@@ -7,5 +7,4 @@ for x in line:
         mp.update({x:1})
     else:
         mp[x]+=1
-
 print(mp)
