@@ -1,3 +1,5 @@
-new = input("enter the input: ")
-n = [i for i in new]
-print(n)
+aString=input("Enter the String :")
+CountString={}
+for x in aString:
+    CountString[x]=aString.count(x)
+print(CountString)
